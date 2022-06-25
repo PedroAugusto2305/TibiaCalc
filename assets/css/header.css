@@ -1,0 +1,21 @@
+#header {
+  width: 580px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3.125rem;
+  margin-bottom: 2rem;
+}
+
+.header-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.imbuement-left {
+  margin-right: 1rem;
+}
+
+.imbuement-right {
+  margin-left: 1rem;
+}
